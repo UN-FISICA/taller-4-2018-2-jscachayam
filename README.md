@@ -1,3 +1,3 @@
 # Taller4
 ## Juan Sebastian Cacchaya Munar
-### Falta terminar la raices
+### Codigo funciona perfectamente
