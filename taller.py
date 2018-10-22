@@ -111,7 +111,7 @@ if __name__ == "__main__":
     print("Metodo = ",dx0.met,"= ",dx0.calc(x0))
     dx1 = Derivada(f1,metodo="central",dx=0.001)
     print("Metodo = ",dx1.met,"= ",dx1.calc(x0))
-    dx2 = Derivada(f1,metodo="Extrapolada",dx=0.001)
+    dx2 = Derivada(f1,metodo="extrapolada",dx=0.001)
     print("Metodo = ",dx2.met,"= ",dx2.calc(x0))
     dx3 = Derivada(f1,metodo="segunda",dx=0.001)
     print("Metodo = ",dx3.met,"= ",dx3.calc(x0))
